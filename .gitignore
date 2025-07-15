@@ -1,0 +1,42 @@
+# Node / React
+node_modules/
+dist/
+build/
+
+# Flask / Python
+__pycache__/
+*.pyc
+instance/
+.env
+venv/
+*.pkl
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# React Vite cache
+.cache/
+*.local
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Coverage Reports
+coverage/
+
+# Database / Data Dumps
+*.sqlite3
+*.db
+*.csv
